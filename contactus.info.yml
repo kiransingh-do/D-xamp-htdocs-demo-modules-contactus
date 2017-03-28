@@ -1,0 +1,5 @@
+name: contactus
+description: A contactus form to enter user details.
+core: 8.x
+package: Custom
+type: module
